@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LeaderBoard>
+    <playerData>
+        <name>soldier-981</name>
+        <score>20</score>
+    </playerData>
+    <playerData>
+        <name>soldier-739</name>
+        <score>24</score>
+    </playerData>
+    <playerData>
+        <name>soldier-113</name>
+        <score>36</score>
+    </playerData>
+    <playerData>
+        <name>soldier-918</name>
+        <score>36</score>
+    </playerData>
+    <playerData>
+        <name>soldier-113</name>
+        <score>42</score>
+    </playerData>
+</LeaderBoard>
